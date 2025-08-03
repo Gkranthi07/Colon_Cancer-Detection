@@ -74,7 +74,7 @@ Develop a classification model that can automatically distinguish between **beni
 
 ## 👤 Author
 
-**Nikshay Policepatel**  
+**G.Kranthikumarreddy**  
 📧 [gkranthikumar956@gmail.com](mailto:gkranthikumar956@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-reddy-g-388911297)
 
